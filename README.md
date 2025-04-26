@@ -2,6 +2,10 @@
 
 A modern, responsive dashboard for tracking and managing AI safety incidents. Built with React and modern web technologies.
 
+
+## ✅ Successfully Deployed on Netlify 🎉
+Visit :- https://ai-safety.netlify.app/
+
 ## Features
 
 - 📊 View and manage AI safety incidents
